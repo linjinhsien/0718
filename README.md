@@ -7,3 +7,6 @@ webapi usememory
 
 ## DataGenerator 為預先寫入4筆資料
 ## 一樣要注入到program 
+## Class Expense in folder Models
+## ExpenseDbContext in folder Models
+## ExpenseController in folder Controllers
