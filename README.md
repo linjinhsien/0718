@@ -1,3 +1,4 @@
 # usememory
 webapi usememory
-nuget
+
+## nuget           <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.7" />
