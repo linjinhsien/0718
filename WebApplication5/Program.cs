@@ -14,7 +14,7 @@ builder.Services.AddDbContext<ExpenseContext>(options =>
 
 var app = builder.Build();
 
-//²£¥Í¸ê®Æ
+//å‰µç«‹è³‡æ–™
 using (var serviceScope = app.Services.CreateScope())
 {
     var services = serviceScope.ServiceProvider;
